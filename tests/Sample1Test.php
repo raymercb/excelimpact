@@ -18,4 +18,12 @@ class Sample1Test extends \PHPUnit_Framework_TestCase
         $actual = $sample1->fibonacci(19);
         $this->assertEquals($expected, $actual);
     }
+
+    public function testFibonacciOf10()
+    {
+        $sample1 = new Sample1();
+        $expected = 55;
+        $actual = $sample1->fibonacci(10);
+        $this->assertEquals($expected, $actual);
+    }
 }
