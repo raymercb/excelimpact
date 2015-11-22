@@ -3,7 +3,7 @@ Sample PHP coding
 
 Solving these exercises:
 ------------------------
-1. 
+1. Get Fibonacci number. [Reference](https://en.wikipedia.org/wiki/Fibonacci_number)
 
 Using:
 ------
