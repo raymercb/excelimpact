@@ -2,6 +2,10 @@
 
 namespace excelimpact\tests;
 
+use excelimpact\src\Sample1;
+
+require_once(__DIR__ . '/../src/Sample1.php');
+
 /**
  * @author Raymer Concepcion
  */
